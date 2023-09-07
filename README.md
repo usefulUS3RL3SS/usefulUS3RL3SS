@@ -1,3 +1,3 @@
-## Kobelev Vladislav, Java Junior Developer 
+## Kobelev Vladislav, Junior Web Developer 
 ### email: usefulus3rl3ss@gmail.com
-### Prefernces: Game development, Application Visual Interface
+### Prefernces: Back-end, Application Visual Interface
