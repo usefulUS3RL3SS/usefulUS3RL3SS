@@ -1,3 +1,3 @@
-## Kobelev Vladislav, Junior Web Developer 
+## Kobelev Vladislav, Middle Web Developer 
 ### email: usefulus3rl3ss@gmail.com
-### Prefernces: Back-end, Application Visual Interface
+### Prefernces: Front-end, Application Visual Interface
