@@ -1,3 +1,3 @@
-## Kobelev Vladislav, Middle Web Developer 
+## Kobelev Vladislav, Web Developer (Frontend)
 ### email: usefulus3rl3ss@gmail.com
-### Prefernces: Front-end, Application Visual Interface
+### Prefernces: Frontend, Application Visual Interface, Mobile
